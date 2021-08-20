@@ -7,7 +7,7 @@ export const Status = () => {
             <div className='flex flex-col items-center justify-center w-full mt-16 '>
                 <h1 >Apple Airpods Max</h1>
                 <img src='/images/airpod_max.jpg' className='w-36 h-24 mt-8' alt='airpod max'/>
-                <div className='absolute top-44'>
+                <div className='absolute top-72'>
                         <div className="rounded-full h-12 w-12 flex items-center justify-center border bg-gray-400">
                         <i className="fab fa-apple fa-2x  "></i>
                             </div>
