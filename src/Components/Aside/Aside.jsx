@@ -2,9 +2,9 @@
 import { Status } from "./Status"
 export const Aside = () => {
     return (
-        <div className='w-full  col-span-3 fixed right-0 space-y-4 bg-red-500  '>
-           <div className='flex justify-around m-1 w-full p-2  '>
-                <div className='flex justify-around items-center w-52'>
+        <div className=' w-96 col-span-3 fixed right-0 space-y-4  '>
+           <div className='flex justify-around m-1 w-full  p-2'>
+                <div className='flex justify-between items-center w-full'>
                     <div className='flex  w-12'>
                         <span><i className="fas fa-user fa-2x"></i></span>
                     </div>

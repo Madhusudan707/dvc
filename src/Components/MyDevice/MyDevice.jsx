@@ -16,7 +16,11 @@ export const MyDevice = () => {
         </div>
       </div>
      
-        <div className='flex flex-nowrap item-center justify-center space-x-4 '>
+        <div className='flex flex-nowrap item-center justify-center space-x-4 overflow-x '>
+            <IconCard/>
+            <IconCard/>
+            <IconCard/>
+            <IconCard/>
             <IconCard/>
             <IconCard/>
             <IconCard/>
